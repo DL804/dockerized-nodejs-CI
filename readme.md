@@ -1,1 +1,1 @@
-# Test app on CI with dockerized Nodejs app
+# Test CI with dockerized Nodejs app
